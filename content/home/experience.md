@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Galway
-    date_start: Sept 2018
+    date_start: '2018-09-01'
     date_end: ''
     description: |2-
       Teaching various modules on the BSc program in Software Development and on the online HDip on Software Development, including:
@@ -40,35 +40,35 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Galway
-    date_start: 'April 2017'
-    date_end: 'August 2018'
+    date_start: '2017-04-01'
+    date_end: '2018-08-31'
     description: 
-      - Back-end developer on SwaggerHub, a SaaS platform for collaborative REST API design which integrates Swagger open-source tooling with Enterprise management features.
-      - Microservice architecture consisting of discrete Dropwizard Java applications deployed in Docker containers to AWS.
+      # - Back-end developer on SwaggerHub, a SaaS platform for collaborative REST API design which integrates Swagger open-source tooling with Enterprise management features.
+      # - Microservice architecture consisting of discrete Dropwizard Java applications deployed in Docker containers to AWS.
 
   - title: Software Engineer
     company: Avaya
     company_url: ''
     company_logo: org-x
     location: Galway
-    date_start: 'April 2013'
-    date_end: 'March 2017'
+    date_start: '2013-04-01'
+    date_end: '2017-03-31'
     description: 
-      - Core Java engineer on Oceana, Avaya's next-generation multi-channel contact centre solution.
-      - Distributed, highly-available system with space-based architecture using GigaSpaces XAP platform running in a Linux environment.
-      - Event-driven real-time handling of customer contacts, with REST and Java RMI for inter-process communication. 
+      # - Core Java engineer on Oceana, Avaya's next-generation multi-channel contact centre solution.
+      # - Distributed, highly-available system with space-based architecture using GigaSpaces XAP platform running in a Linux environment.
+      # - Event-driven real-time handling of customer contacts, with REST and Java RMI for inter-process communication. 
 
   - title: Medical Physicist (Radiation Oncology)
-    company: Galwat University Hospitals
+    company: Galway University Hospitals
     company_url: ''
     company_logo: org-x
     location: Galway
-    date_start: 'October 2009'
-    date_end: 'October 2012'
+    date_start: '2009-10-01'
+    date_end: '2012-10-01'
     description:  
-      - Completed a 2 year internationally accredited National Radiation Oncology Physics Residency Training Programme (2009-2011) combining theoretical principles, clinical practice, project work and continuous assessment in a radiotherapy center with 3 linacs, IMRT, IGRT, orthovoltage, HDR and LDR brachytherapy.
-      - Subsequently worked as a Clinical Physicist in the Radiotherapy department. Responsibilities include radiation measurement, linear accelerator QA and commissioning, treatment planning, development and improvement of techniques and procedures, research projects.
-      - Project work included developing an application in Python to automate patient plan verification.
+      # - Completed a 2 year internationally accredited National Radiation Oncology Physics Residency Training Programme (2009-2011) combining theoretical principles, clinical practice, project work and continuous assessment in a radiotherapy center with 3 linacs, IMRT, IGRT, orthovoltage, HDR and LDR brachytherapy.
+      # - Subsequently worked as a Clinical Physicist in the Radiotherapy department. Responsibilities include radiation measurement, linear accelerator QA and commissioning, treatment planning, development and improvement of techniques and procedures, research projects.
+      # - Project work included developing an application in Python to automate patient plan verification.
 
 design:
   columns: '2'
