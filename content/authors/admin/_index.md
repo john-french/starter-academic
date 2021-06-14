@@ -43,12 +43,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen 
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen 
+# - icon: teams
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen 
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
 - icon: github
   icon_pack: fab
   link: https://github.com/john-french
@@ -64,12 +67,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "john.french@gmit.ie"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I'm a lecturer in Computing in the Department of Computing & Applied Physics at Galway-Mayo Institute of Technology.
+I'm a lecturer in Computing in the Department of Computing & Applied Physics at GMIT, teaching on the BSc in Software Development and the online HDip in Software Development. Before joining GMIT I worked as a software engineer in industry, and before that I was a physicist doing various physicsy things (long story).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

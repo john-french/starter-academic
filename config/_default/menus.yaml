@@ -7,15 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
+  - name: Courses  # A link title for your page.
+    url: courses/  # The URL of your page.
+    weight: 50  # The position of your page in the menu.
   - name: Publications
     url: '#featured'
     weight: 50
