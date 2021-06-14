@@ -25,7 +25,7 @@ experience:
   - title: Lecturer in Computing
     company: GMIT, Dept. of Computer Science & Applied Physics
     company_url: ''
-    company_logo: org-gc
+    company_logo: gmit
     location: Galway
     date_start: '2018-09-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Senior Software Engineer
     company: Smartbear
     company_url: ''
-    company_logo: org-x
+    company_logo: smartbear
     location: Galway
     date_start: '2017-04-01'
     date_end: '2018-08-31'
@@ -49,7 +49,7 @@ experience:
   - title: Software Engineer
     company: Avaya
     company_url: ''
-    company_logo: org-x
+    company_logo: avaya
     location: Galway
     date_start: '2013-04-01'
     date_end: '2017-03-31'
