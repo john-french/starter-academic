@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Galway
-    date_start: 'September 2018'
+    date_start: Sept 2018
     date_end: ''
     description: |2-
       Teaching various modules on the BSc program in Software Development and on the online HDip on Software Development, including:
@@ -40,7 +40,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Galway
-    date_start: 'April 2017
+    date_start: 'April 2017'
     date_end: 'August 2018'
     description: 
       - Back-end developer on SwaggerHub, a SaaS platform for collaborative REST API design which integrates Swagger open-source tooling with Enterprise management features.
@@ -51,7 +51,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Galway
-    date_start: 'April 2013
+    date_start: 'April 2013'
     date_end: 'March 2017'
     description: 
       - Core Java engineer on Oceana, Avaya's next-generation multi-channel contact centre solution.
@@ -63,7 +63,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Galway
-    date_start: 'October 2009
+    date_start: 'October 2009'
     date_end: 'October 2012'
     description:  
       - Completed a 2 year internationally accredited National Radiation Oncology Physics Residency Training Programme (2009-2011) combining theoretical principles, clinical practice, project work and continuous assessment in a radiotherapy center with 3 linacs, IMRT, IGRT, orthovoltage, HDR and LDR brachytherapy.
