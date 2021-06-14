@@ -42,9 +42,9 @@ experience:
     location: Galway
     date_start: '2017-04-01'
     date_end: '2018-08-31'
-    description: 
-      # - Back-end developer on SwaggerHub, a SaaS platform for collaborative REST API design which integrates Swagger open-source tooling with Enterprise management features.
-      # - Microservice architecture consisting of discrete Dropwizard Java applications deployed in Docker containers to AWS.
+    description: |2-
+      - Back-end developer on SwaggerHub, a SaaS platform for collaborative REST API design which integrates Swagger open-source tooling with Enterprise management features.
+      - Microservice architecture consisting of discrete Dropwizard Java applications deployed in Docker containers to AWS.
 
   - title: Software Engineer
     company: Avaya
@@ -53,10 +53,10 @@ experience:
     location: Galway
     date_start: '2013-04-01'
     date_end: '2017-03-31'
-    description: 
-      # - Core Java engineer on Oceana, Avaya's next-generation multi-channel contact centre solution.
-      # - Distributed, highly-available system with space-based architecture using GigaSpaces XAP platform running in a Linux environment.
-      # - Event-driven real-time handling of customer contacts, with REST and Java RMI for inter-process communication. 
+    description: |2-
+      - Core Java engineer on Oceana, Avaya's next-generation multi-channel contact centre solution.
+      - Distributed, highly-available system with space-based architecture using GigaSpaces XAP platform running in a Linux environment.
+      - Event-driven real-time handling of customer contacts, with REST and Java RMI for inter-process communication. 
 
   - title: Medical Physicist (Radiation Oncology)
     company: Galway University Hospitals
@@ -65,10 +65,10 @@ experience:
     location: Galway
     date_start: '2009-10-01'
     date_end: '2012-10-01'
-    description:  
-      # - Completed a 2 year internationally accredited National Radiation Oncology Physics Residency Training Programme (2009-2011) combining theoretical principles, clinical practice, project work and continuous assessment in a radiotherapy center with 3 linacs, IMRT, IGRT, orthovoltage, HDR and LDR brachytherapy.
-      # - Subsequently worked as a Clinical Physicist in the Radiotherapy department. Responsibilities include radiation measurement, linear accelerator QA and commissioning, treatment planning, development and improvement of techniques and procedures, research projects.
-      # - Project work included developing an application in Python to automate patient plan verification.
+    description:  |2-
+      - Completed a 2 year internationally accredited National Radiation Oncology Physics Residency Training Programme (2009-2011) combining theoretical principles, clinical practice, project work and continuous assessment in a radiotherapy center with 3 linacs, IMRT, IGRT, orthovoltage, HDR and LDR brachytherapy.
+      - Subsequently worked as a Clinical Physicist in the Radiotherapy department. Responsibilities include radiation measurement, linear accelerator QA and commissioning, treatment planning, development and improvement of techniques and procedures, research projects.
+      - Project work included developing an application in Python to automate patient plan verification.
 
 design:
   columns: '2'
